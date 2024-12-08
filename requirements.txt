@@ -3,7 +3,6 @@ streamlit_navigation_bar
 streamlit_lottie
 pandas
 numpy
-scikit-learn
 google-generativeai
 plotly
 supabase
@@ -15,3 +14,5 @@ typing
 streamlit_shap
 matplotlib
 imbalanced-learn==0.12.2
+pyarrow
+scikit-learn==1.4.0
