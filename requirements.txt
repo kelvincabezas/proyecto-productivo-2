@@ -14,3 +14,4 @@ requests
 typing
 streamlit_shap
 matplotlib
+imbalanced-learn==0.12.2
