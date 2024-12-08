@@ -12,3 +12,5 @@ shap
 xgboost
 requests
 typing
+streamlit_shap
+matplotlib
