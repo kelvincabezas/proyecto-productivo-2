@@ -1,0 +1,9 @@
+{
+    "app_name": "Machine Learning Project",
+    "version": "0.1.0",
+    "gemini_api_key": "",
+    "supabase_config": {
+        "url": "",
+        "key": ""
+    }
+}

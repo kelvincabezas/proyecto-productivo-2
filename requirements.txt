@@ -1,0 +1,12 @@
+streamlit
+streamlit_navigation_bar
+streamlit_lottie
+pandas
+numpy
+scikit-learn
+google-generativeai
+plotly
+supabase
+python-dotenv
+shap
+xgboost
