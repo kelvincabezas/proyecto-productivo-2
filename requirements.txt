@@ -16,3 +16,4 @@ matplotlib
 imbalanced-learn==0.12.2
 pyarrow
 scikit-learn==1.4.0
+umap
