@@ -1,8 +1,9 @@
-streamlit
+streamlit==1.33.0
 streamlit_navigation_bar
 streamlit_lottie
 pandas
 numpy
+scikit-learn==1.4.0
 google-generativeai
 plotly
 supabase
@@ -13,7 +14,5 @@ requests
 typing
 streamlit_shap
 matplotlib
-imbalanced-learn==0.12.2
 pyarrow
-scikit-learn==1.4.0
 umap
