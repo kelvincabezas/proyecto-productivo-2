@@ -16,3 +16,4 @@ streamlit_shap
 matplotlib
 pyarrow
 umap
+imblearn
